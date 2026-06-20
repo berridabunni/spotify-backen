@@ -1,0 +1,28 @@
+{
+  "name": "spotify-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berridabunni/spotify-backen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/berridabunni/spotify-backen/issues"
+  },
+  "homepage": "https://github.com/berridabunni/spotify-backen#readme",
+  "dependencies": {
+    "axios": "^1.18.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
